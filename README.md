@@ -1,4 +1,4 @@
-# python_week_seven_assignmentAnalyzing Data with Pandas and Visualizing Results with Matplotlib
+# Analyzing Data with Pandas and Visualizing Results with Matplotlib
 **Assignment Overview**
 
 This project demonstrates data analysis and visualization in Python using the pandas and matplotlib libraries.
